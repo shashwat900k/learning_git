@@ -1,0 +1,13 @@
+3b
+Number of commits: 1
+Command used is:	git rev-list --count HEAD
+
+3c
+Commited the file
+
+3d
+On executing git init
+Initializes the repository in the current folder
+
+3e
+*.tmp
