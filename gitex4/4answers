@@ -1,0 +1,24 @@
+4b
+git branch <Branch_Name>
+git checkout <Branch_Name>
+
+
+4d
+git branch
+
+4e
+There is an additional file file3.txt in add_file3 branch
+
+4f
+First merge is the fast forwarded commit as there was no commit done to master in between
+
+4g
+This merge is a 3-way merge as the state of master branch is now changed 
+
+4h
+git branch -d add_file3
+
+
+
+
+
